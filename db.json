@@ -1,0 +1,188 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "itemname": "json-server",
+      "itemcategory": "typicode",
+      "itemdes": "hfhfhfh",
+      "itemprice": 100,
+      "status": "Active"
+    },
+    {
+      "itemname": "aaa",
+      "itemcategory": "aaa",
+      "itemdes": "aaaaaa",
+      "status": "Active",
+      "itemprice": "121",
+      "id": 2
+    },
+    {
+      "itemname": "sss",
+      "itemcategory": "ssss",
+      "itemdes": "sss",
+      "status": "Active",
+      "itemprice": "12",
+      "id": 3
+    },
+    {
+      "itemname": "ddd",
+      "itemcategory": "ddd",
+      "itemdes": "ddd",
+      "status": "Active",
+      "itemprice": "12",
+      "id": 4
+    },
+    {
+      "itemname": "sss",
+      "itemcategory": "ssss",
+      "itemdes": "ssss",
+      "status": "Active",
+      "itemprice": 1222,
+      "id": 5
+    },
+    {
+      "itemname": "ss",
+      "itemcategory": "sss",
+      "itemdes": "sss",
+      "status": "Active",
+      "itemprice": 1,
+      "id": 6
+    },
+    {
+      "itemname": "s",
+      "itemcategory": "sss",
+      "itemdes": "ssss",
+      "status": "Active",
+      "itemprice": 0,
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryname": "some comment",
+      "categorydes": "data",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "categoryname": "some comment",
+      "categorydes": "data",
+      "status": "Active"
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "ssss",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 7
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 9
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 11
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 12
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 13
+    },
+    {
+      "categoryname": "sss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 14
+    },
+    {
+      "categoryname": "ssss",
+      "categorydes": "sss",
+      "status": "Active",
+      "id": 15
+    },
+    {
+      "categoryname": "aaaa",
+      "categorydes": "ssss",
+      "status": "Active",
+      "id": 16
+    },
+    {
+      "categoryname": "ssssss",
+      "categorydes": "ssss",
+      "status": "Active",
+      "id": 17
+    },
+    {
+      "categoryname": null,
+      "categorydes": null,
+      "status": null,
+      "id": 18
+    },
+    {
+      "categoryname": "",
+      "categorydes": "aaaa",
+      "status": "Active",
+      "id": 19
+    },
+    {
+      "categoryname": "s",
+      "categorydes": "s",
+      "status": "Active",
+      "id": 20
+    },
+    {
+      "categoryname": "aaasssss",
+      "categorydes": "aaassssssssss",
+      "status": "InActive",
+      "id": 21
+    }
+  ]
+}

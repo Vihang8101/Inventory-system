@@ -6,7 +6,7 @@ import AllCategories from "../src/views/Categories/AllCategories.vue"
 import EditCategories from "../src/views/Categories/EditCategories.vue"
 import AddItem from "../src/views/Items/AddNewItem.vue"
 import AllItem from "../src/views/Items/AllItem.vue"
-import Edititem from "../src/views/Items/Edititem.vue"
+import EditItem from "./views/Items/EditItem.vue"
 Vue.use(Router)
 
 export default new Router({
@@ -44,7 +44,7 @@ export default new Router({
         {
             path:'/edititem/:id',
             name:'edititem/:id',
-            component:Edititem
+            component:EditItem
         },
         
 

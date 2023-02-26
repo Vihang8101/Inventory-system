@@ -123,6 +123,7 @@
 <script>
 
 export default {
+  name:"NavBar",
   data() {
     return {
       inset: true,
